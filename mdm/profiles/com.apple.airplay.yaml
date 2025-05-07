@@ -4,7 +4,7 @@ payload:
   payloadtype: com.apple.airplay
   supportedOS:
     iOS:
-      introduced: '7.0'
+      introduced: '8.0'
       multiple: true
       supervised: false
       allowmanualinstall: true
