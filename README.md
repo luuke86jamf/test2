@@ -1,4 +1,4 @@
-aa# Device Management Client Schema
+xbzz# Device Management Client Schema
 
 This repository contains Apple's Device Management Client schema data for the MDM (Mobile Device Management) protocol, and the Declarative Device Management feature.
 
